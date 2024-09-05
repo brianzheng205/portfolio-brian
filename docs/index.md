@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Brian Zheng"
+  text: "A passionate software engineer"
+  tagline: "Work done for 6.1040"
   actions:
     - theme: brand
       text: Template Repository
