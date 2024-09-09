@@ -1,9 +1,9 @@
 ---
-title: Assignment 1
+title: Assignment 1 - Social Media Needfinding
 layout: doc
 ---
 
-# Assignment 1: Social Media Needfinding
+# Assignment 1 - Social Media Needfinding
 
 ## Hunch
 
