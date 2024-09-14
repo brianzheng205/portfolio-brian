@@ -4,4 +4,6 @@ layout: doc
 
 # About Me
 
-I am a passionate software engineer planning to graduate MIT in May 2025 with Full Stack Development experience. Check out [my portfolio](https://portfolio-brianzheng205.vercel.app/).
+![](profile_pic.png){:width='200'}
+
+I'm Brian Zheng. I'm from New Jersey and I am looking forward to creating a Full Stack web app in 6.1040.
