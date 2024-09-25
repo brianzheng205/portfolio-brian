@@ -80,7 +80,7 @@ Hush feature that lets you join Groups anonymously. Could implement similar feat
    - _Observation_: The **Goal-based Workout Groups** may unintentionally favor specific fitness goals (e.g., bodybuilding or weight loss) while excluding or overlooking niche fitness needs like rehab exercises or adaptive fitness for people with disabilities.
    - _Design Response_: Add diverse group categories, ensuring all users, regardless of their fitness background, can find a community. Include specific accessibility options to promote a sense of belonging for all fitness levels and needs.
 3. **Time \- Long-term Community Dynamics**
-   - _Observation_: Over time, the **Rep Challenge Leaderboards** could create unhealthy competition and foster toxic behavior, leading some users to feel inadequate if they can’t keep up.
+   - _Observation_: Over time, the **Leaderboards** could create unhealthy competition and foster toxic behavior, leading some users to feel inadequate if they can’t keep up.
    - _Design Response_: Implement moderation tools to filter aggressive or harmful comments and ensure challenges emphasize personal growth and improvement over competition. Add "compassionate challenge modes" that focus on collaboration rather than rivalry.
 4. **Pervasiveness \- Influence of Fitness Influencers on Community Culture**
    - _Observation_: The **Stories** and **Feed** features might lead to an unrealistic portrayal of fitness journeys, where influencers showcase rapid, highly visual transformations, creating pressure for users to prioritize appearance over health.
